@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "swiper": "^10.1.0",
+    "vue-material-design-icons": "^5.2.0"
+  }
+}
