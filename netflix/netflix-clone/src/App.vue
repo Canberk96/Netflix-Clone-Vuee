@@ -528,15 +528,7 @@
   
   <script setup>
   import { onMounted, ref } from "vue";
-  import Magnify from "vue-material-design-icons/Magnify.vue";
-  import HomeOutLine from "vue-material-design-icons/HomeOutLine.vue";
-  import TrendingUp from "vue-material-design-icons/TrendingUp.vue";
-  import Television from "vue-material-design-icons/Television.vue";
-  import MovieOutLine from "vue-material-design-icons/MovieOutLine.vue";
-  import Plus from "vue-material-design-icons/Plus.vue";
-  import ChevronLeft from "vue-material-design-icons/ChevronLeft.vue";
-  import { Swiper, SwiperSlide } from 'swiper/vue';
-  import 'swiper/css';
+  
   const arrows = document.querySelectorAll(".arrows");
   const moviewrapper = document.querySelectorAll(".movielistContainerWrapper");
   
